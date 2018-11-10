@@ -1,0 +1,76 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="Jose Luis Jiménez Gabaldón. Página GitHub">
+    <!--Sustituir por los datos del alumno-->
+    <meta name="author" content="Jose Luis Jiménez Gabaldón.">
+
+    <!--Sustituir por los datos del alumno-->
+    <title>Jose Luis Jiménez Gabaldón. Página GitHub</title>
+
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+  </head>
+
+  <body>
+    <div class="container header-bar">
+      <!--Sustituir por los datos del alumno-->
+      <h3>Jose Luis Jiménez Gabaldón<span><img style="width: 214px; height: 164px;" class='img-circle' alt="Nombre y Apellido(s)" src="img/foto.png" align="right"></span></h3>
+      <p>
+        <!--Sustituir por los datos del alumno-->
+        Analista Orgánico<br>
+        Desarrollo de Sistemas<br>
+        Atmira Espacio de Consultoría
+      </p>
+      <address>
+        <!--Sustituir por los datos del alumno-->
+        <span class='glyphicon glyphicon-pencil'></span> jojiga@hotmail.com <br>
+      </address>
+
+    </div>
+
+    <div class="container">
+      <div class='row'>
+        <div class='col-sm-8'>
+          <br>
+          <p>Actualmente trabajando en Atmira en asistencia técnica para el cliente Bankia. 
+Estudios en la Licenciatura de Matemáticas en la Universidad de Valencia.
+Orientación profesional al desarrollo de sistemas, especialmente al Core Bancario.  </p>
+          
+          <p>Conocimientos avanzados en el lenguaje de programación COBOL y procesamiento BACTH con JCLs. Bases de datos utilizados DLI, DB2 y MongoDB.
+Conocimientos en los lenguajes de programación Java, PHP y JavaScript. Y conocimientos de las BBDD Oracle y MySQL.
+Conocimientos en metodologías ágiles con SCRUM.</p>
+
+          <h3>Cursos</h3>
+          <table class='table table-striped'>
+            <tr><td><a href="https://www.miriadax.net" target="blank">Introducción a Linux como entorno de desarrollo de sistemas software</a>.</td></tr>
+            <tr><td>Gestión de proyectos con metodologías Ágiles y enfoques Lean.</td></tr>
+            <tr><td>Enterprise Architec.</td></tr>
+            <tr><td>Dirección y gestión de equipos de trabajo.</td></tr>
+            <tr><td>Desarrollo de habilidades comunicativas.</td></tr>
+            <tr><td>JEE5 y EJB 3.0.</td></tr>
+            <tr><td>Iniciación al Sistema Operativo Linux.</td></tr>
+            <tr><td>Fundamentos de Tecnologías de la información.</td></tr>
+            <tr><td>Curso Analista-Programador en Java I.</td></tr>
+            <tr><td>Operativa Bancaria.</td></tr>
+            <tr><td>Fundamentos de JavaEE.</td></tr>
+            <tr><td>Iniciación Spring.</td></tr>
+            <tr><td>Programación Java I.</td></tr>
+            <tr><td>Programador Junior: COBOL.</td></tr>
+            <tr><td>Creación de aplicaciones web utilizando APACHE+PHP+MySQL.</td></tr>
+
+
+          </table>
+        </div>
+      </div>
+
+      <footer class="footer">
+        <!--Sustituir por los datos del alumno-->
+        <p>&copy; Jose Luis Jiménez Gabaldón - 2018</p>
+      </footer>
+
+    </div>
+  </body>
+</html>
